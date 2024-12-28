@@ -1,0 +1,10 @@
+{
+  "devDependencies": {
+    "tailwindcss": "^3.4.15"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "animated-tailwindcss": "^4.0.0",
+    "tailwindcss-motion": "^0.4.3-beta"
+  }
+}
